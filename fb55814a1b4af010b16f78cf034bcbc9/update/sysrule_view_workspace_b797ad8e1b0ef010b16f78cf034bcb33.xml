@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysrule_view_workspace">
+    <sysrule_view_workspace action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <default_tab_focus>73b029821b0ef010b16f78cf034bcb39</default_tab_focus>
+        <default_tab_order>true</default_tab_order>
+        <description/>
+        <disable_section_collapse>false</disable_section_collapse>
+        <hide_details>true</hide_details>
+        <hide_section_menu>false</hide_section_menu>
+        <name>Hide Details for Artifacts</name>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sysrule_view_workspace</sys_class_name>
+        <sys_created_by>Earl.Duque</sys_created_by>
+        <sys_created_on>2021-08-19 22:18:33</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b797ad8e1b0ef010b16f78cf034bcb33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hide Details for Artifacts</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Playbooks for Artifact Manager" source="x_snc_playbooks_am">fb55814a1b4af010b16f78cf034bcbc9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Playbooks for Artifact Manager">fb55814a1b4af010b16f78cf034bcbc9</sys_scope>
+        <sys_update_name>sysrule_view_workspace_b797ad8e1b0ef010b16f78cf034bcb33</sys_update_name>
+        <sys_updated_by>Earl.Duque</sys_updated_by>
+        <sys_updated_on>2021-08-19 22:18:33</sys_updated_on>
+        <table>x_snc_artifact_mgr_artifact</table>
+        <tabs_order>[{"label":"Details","value":"Details"},{"label":"Playbook","value":"73b029821b0ef010b16f78cf034bcb39"}]</tabs_order>
+        <view display_value="Workspace" name="workspace">7e743febdb332300f05c28f3ca9619d0</view>
+        <workspace display_value="Agent Workspace">7b24ceae5304130084acddeeff7b12a3</workspace>
+    </sysrule_view_workspace>
+</record_update>

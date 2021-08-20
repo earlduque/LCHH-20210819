@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_playbook_experience">
+    <sys_playbook_experience action="INSERT_OR_UPDATE">
+        <name>Artifact Playbook</name>
+        <sys_class_name>sys_playbook_experience</sys_class_name>
+        <sys_created_by>Earl.Duque</sys_created_by>
+        <sys_created_on>2021-08-19 22:23:22</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>33c821421b4ef010b16f78cf034bcbc4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Artifact Playbook</sys_name>
+        <sys_package display_value="Playbooks for Artifact Manager" source="x_snc_playbooks_am">fb55814a1b4af010b16f78cf034bcbc9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Playbooks for Artifact Manager">fb55814a1b4af010b16f78cf034bcbc9</sys_scope>
+        <sys_update_name>sys_playbook_experience_33c821421b4ef010b16f78cf034bcbc4</sys_update_name>
+        <sys_updated_by>Earl.Duque</sys_updated_by>
+        <sys_updated_on>2021-08-19 22:23:22</sys_updated_on>
+    </sys_playbook_experience>
+</record_update>
